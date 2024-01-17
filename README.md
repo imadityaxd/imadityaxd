@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a web developer from Bengaluru, India. I build things for the web.
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/imadityaxd/imadityaxd/blob/main/devcard.svg" width="400" alt="xdCoder's Dev Card"/></a>
